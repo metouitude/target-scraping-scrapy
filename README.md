@@ -2,9 +2,10 @@
 Python code for scraping a product from e-commerce website target.com ☁️
 
 ## How to run the code
-1. First cd into scrapy folder which is : /target-scraping-scrapy/target_scrap/target_scrap
-2. Launch & export scrapper into csv (or whatever you want) with this command : scrapy crawl dronesspider -o name.csv
-3. Just open the output
+1. Install all dependencides via this command : pip3 install requirements.txt 
+2. Then cd into scrapy folder which is : /target-scraping-scrapy/target_scrap/target_scrap
+3. Launch & export scrapper into csv (or whatever you want) with this command : scrapy crawl dronesspider -o name.csv
+4. Just open the output
 ️️ 
 ## Notes 
 1. You can of course reach out to me in case there is any kind of problem 📢 ️️ mohamedmetoui2@gmail.com
